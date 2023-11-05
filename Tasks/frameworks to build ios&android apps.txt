@@ -1,0 +1,1 @@
+Kivy: Kivy is an open-source Python library for developing multi-touch applications. It's a cross-platform framework, meaning you can use it to develop applications for iOS, Android, Windows, macOS, Linux, and more. Kivy is known for its ease of use and support for touch interfaces.
